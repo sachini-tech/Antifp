@@ -5,6 +5,7 @@ Welcome to the official repository for Antifp, a computational method and web se
 **Web Server:** http://webs.iiitd.edu.in/raghava/antifp
 **Standalone Software:** Available via the Download menu on the web server
 **Mobile App (Android):** Available via the Download menu on the web server
+ZENODO ; https://doi.org/10.5281/zenodo.20083673
 
 ---
 
